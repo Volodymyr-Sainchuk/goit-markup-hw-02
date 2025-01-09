@@ -1,0 +1,123 @@
+.logo_highlited {
+        color: #4D5AE5;
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 3%;
+        text-align: left;
+        text-transform: uppercase;
+}
+.header {
+        color: #2E2F42;
+        text-decoration: none;
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21px;
+        letter-spacing: 3%;
+        text-align: left;
+        text-transform: uppercase;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
+.header-studio {
+        color: #2E2F42;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 2em;
+        text-align: left;
+}
+.address-link {
+        color: #434455;
+        font-family: Roboto;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 2;
+        text-align: left;
+}
+.main-section {
+        color: #FFFFFF;
+        font-family: Roboto;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.main {
+    background-color: #2E2F42;
+    text-align: center;
+}
+.section-btn {
+        background-color: #4D5AE5;
+        color:#FFFFFF;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 169;
+        line-height: 1.6;
+        letter-spacing: 4;
+        text-align: center;
+}
+.main-list {
+        color: #2E2F42;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 2%;
+        text-align: left;
+}
+.main-list-text {
+        color: #434455;
+        font-family: Roboto;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        text-align: left;
+}
+.team {
+    /* Header 2 */
+        color: #2E2F42;
+        font-family: Roboto;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.team-members {
+        color:#2E2F42;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.team-members-text {
+        color: #2E2F42;
+        font-family: Roboto;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.footer {
+   background-color: #2E2F42;
+}
+.footer-logo {
+    color: #F4F4FD;
+}
+.footer-text {
+        color: #F4F4FD;
+        font-family: Roboto;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        text-align: left;
+}
