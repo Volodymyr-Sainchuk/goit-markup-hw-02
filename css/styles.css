@@ -163,5 +163,6 @@ li {
         font-style: normal
 }
 .team-item-first {
-        background-color: #FFFFFF; 
+        background-color: #FFFFFF;
+        width: 264px;
 }
