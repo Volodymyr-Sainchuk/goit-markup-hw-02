@@ -11,11 +11,11 @@
 .header {
         color: #4d5ae5;
         text-decoration: none;
-        font-family: Raleway;
+        font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
-        line-height: 21px;
-        letter-spacing: 3%;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
         text-align: left;
         text-transform: uppercase;
 }
@@ -142,8 +142,8 @@ li {
         text-align: left;
 }
 .header-link-item {
-        font-weight: 500
-        line-height: 1.5
+        font-weight: 500;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
@@ -158,4 +158,10 @@ li {
 }
 .footer-logo_highlited {
         color: #f4f4fd;
+}
+.hero {
+        font-style: normal
+}
+.team-item-first {
+        background-color: #FFFFFFgit 
 }
